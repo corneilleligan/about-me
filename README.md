@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=200&color=2563eb&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Cybersecurity+focused;Always+building+and+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=500&color=2563eb&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Cybersecurity+%2F+Security+focused;Always+building+and+learning.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -68,4 +68,4 @@ Je développe des projets variés (web, logiciels, jeux et bases de données) av
 - Compréhension des systèmes avant implémentation  
 - Code structuré et maintenable  
 - Apprentissage continu en sécurité et développement  
-- Construction de projets complets et cohérents
+- Construction de projets complets et cohérents  
