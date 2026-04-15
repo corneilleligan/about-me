@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=2563eb&center=true&vCenter=true&width=500&lines=Étudiant+en+informatique+;Orienté+cybersécurité;Toujours+en+train+de+construire+quelque+chose.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=300&color=2563eb&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Cybersecurity+focused;Always+building+something)](https://git.io/typing-svg)
 
 <br/>
 
