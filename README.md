@@ -4,78 +4,68 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=300&color=2563eb&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Cybersecurity+focused;Always+building+something)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=200&color=2563eb&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Cybersecurity+focused;Always+building+and+learning.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-corneilleligan.me-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://corneilleligan.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-corneille--ligan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corneille-ligan-5368a4225)
-[![Email](https://img.shields.io/badge/Email-corneilleligan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corneilleligan@gmail.com)
+[Portfolio](https://corneilleligan.me) · [LinkedIn](https://www.linkedin.com/in/corneille-ligan-5368a4225) · [Email](mailto:corneilleligan@gmail.com)
 
 </div>
 
 ---
 
-## Stack technique
+## Profil
 
-<div align="center">
+Étudiant en informatique avec un intérêt marqué pour la **cybersécurité et la sécurité des systèmes**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-MariaDB-blue?style=flat&logo=mariadb&logoColor=white)
-![Processing](https://img.shields.io/badge/Processing-006699?style=flat&logo=processingfoundation&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+Je développe des projets variés (web, logiciels, jeux et bases de données) avec une attention particulière portée à la structure, la logique et la compréhension des mécanismes internes.
 
-</div>
+---
+
+## Domaines d’intérêt
+
+- Cybersécurité et sécurité applicative  
+- Analyse et compréhension des systèmes  
+- Développement web interactif  
+- Applications Java et architecture logicielle  
+- Bases de données et modélisation  
 
 ---
 
 ## Projets
 
-### Interfaces Web
+### Applications web
 
-| Projet | Description | Stack | Liens |
-|--------|-------------|-------|-------|
-| **Horloge Analogique & Numérique** | Horloge temps réel avec aiguilles animées, affichage 24h, date en français et mode sombre / clair | `JS` `CSS` `SVG` | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/corneilleligan/Horloge) [![Demo](https://img.shields.io/badge/-Demo-2563eb?style=flat&logo=googlechrome&logoColor=white)](https://corneilleligan.me) |
-| **Minuteur Circulaire Animé** | Progression SVG animée, play / pause / reset, durées de 30 s à 10 min | `JS` `CSS` `SVG` | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/corneilleligan/Minuteur) [![Demo](https://img.shields.io/badge/-Demo-2563eb?style=flat&logo=googlechrome&logoColor=white)](https://corneilleligan.me) |
-| **Galerie d'Images Aléatoires** | Galerie responsive via API Picsum, skeleton loader, lightbox, régénération en un clic | `JS` `API REST` `CSS Grid` | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/corneilleligan/Galerie_images_aleatoires) [![Demo](https://img.shields.io/badge/-Demo-2563eb?style=flat&logo=googlechrome&logoColor=white)](https://corneilleligan.me) |
-
-### Jeux & Ludique
-
-| Projet | Description | Stack | Liens |
-|--------|-------------|-------|-------|
-| **Snake Classique** | Snake revisité — swipe mobile, meilleur score sauvegardé, design sombre responsive | `JS` `Canvas` `Touch Events` | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/corneilleligan/SnakeGame) [![Demo](https://img.shields.io/badge/-Demo-2563eb?style=flat&logo=googlechrome&logoColor=white)](https://corneilleligan.me) |
-| **Jeu de Décodage Interactif** | Convertissez binaire / hex / décimal contre la montre. 3 niveaux, bonus de vitesse, historique | `JS` `Game Logic` | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/corneilleligan/DecodageGame) [![Demo](https://img.shields.io/badge/-Demo-2563eb?style=flat&logo=googlechrome&logoColor=white)](https://corneilleligan.me) |
-| **Pac-Man** | Recréation fidèle — 4 fantômes avec IA, mode Super Pac-Gomme, sons, sauvegarde, meilleurs scores | `Processing` `POO` | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/corneilleligan/pacman-processing) |
-
-### Applications Desktop & Base de données
-
-| Projet | Description | Stack | Liens |
-|--------|-------------|-------|-------|
-| **Outil de Gestion d'Images** | App JavaFX MVC — filtres N&B / sépia / Prewitt, tags, chiffrement SHA-256, persistance JSON | `Java` `JavaFX` `Jackson` | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/corneilleligan/Outil-de-Gestion-d-Images) |
-| **Base de Données — Restaurant** | BDD relationnelle complète — MCD, MLD, requêtes avancées, triggers, procédures stockées | `SQL` `MariaDB` `Merise` | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat&logo=github)](https://github.com/corneilleligan/Base_de_donnees_restaurant) |
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| Horloge analogique et numérique | Horloge temps réel avec animation SVG et mode clair/sombre | JavaScript, CSS, SVG | [Repo](https://github.com/corneilleligan/Horloge) |
+| Minuteur circulaire animé | Minuteur interactif avec animation de progression | JavaScript, CSS, SVG | [Repo](https://github.com/corneilleligan/Minuteur) |
+| Galerie d’images aléatoires | Galerie responsive avec API et lightbox | JavaScript, API REST, CSS Grid | [Repo](https://github.com/corneilleligan/Galerie_images_aleatoires) |
 
 ---
 
-## Stats GitHub
+### Jeux et logique
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=corneilleligan&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corneilleligan&layout=compact&theme=tokyonight&hide_border=true&locale=fr" height="150"/>
-
-</div>
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| Snake classique | Jeu Snake avec score et contrôle tactile | JavaScript, Canvas | [Repo](https://github.com/corneilleligan/SnakeGame) |
+| Jeu de décodage interactif | Conversion binaire / hex / décimal avec niveaux | JavaScript | [Repo](https://github.com/corneilleligan/DecodageGame) |
+| Pac-Man | Recréation avec IA et mécaniques avancées | Processing | [Repo](https://github.com/corneilleligan/pacman-processing) |
 
 ---
 
-<div align="center">
+### Applications et bases de données
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=100&section=footer" width="100%"/>
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| Outil de gestion d’images | Application JavaFX avec filtres et persistance sécurisée | Java, JavaFX, Jackson | [Repo](https://github.com/corneilleligan/Outil-de-Gestion-d-Images) |
+| Base de données restaurant | Modélisation et requêtes SQL avancées | SQL, phpMyAdmin, Merise | [Repo](https://github.com/corneilleligan/Base_de_donnees_restaurant) |
 
-</div>
+---
+
+## Approche
+
+- Compréhension des systèmes avant implémentation  
+- Code structuré et maintenable  
+- Apprentissage continu en sécurité et développement  
+- Construction de projets complets et cohérents
