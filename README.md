@@ -50,7 +50,7 @@ Je développe des projets variés (web, logiciels, jeux et bases de données) av
 |--------|-------------|-------|------|
 | Snake classique | Jeu Snake avec score et contrôle tactile | JavaScript, Canvas | [Repo](https://github.com/corneilleligan/SnakeGame) |
 | Jeu de décodage interactif | Conversion binaire / hex / décimal avec niveaux | JavaScript | [Repo](https://github.com/corneilleligan/DecodageGame) |
-| Pac-Man | Recréation avec IA et mécaniques avancées | Processing | [Repo](https://github.com/corneilleligan/pacman-processing) |
+| Pac-Man | Recréation avec IA et mécaniques avancées | Processing | [Repo](https://github.com/corneilleligan/pacman) |
 
 ---
 
