@@ -66,6 +66,6 @@ Je développe des projets variés (web, logiciels, jeux et bases de données) av
 ## Approche
 
 - Compréhension des systèmes avant implémentation  
-- Code structuré et maintenable  
+- Code structuré et maintenable  sur la durée
 - Apprentissage continu en sécurité et développement  
 - Construction de projets complets et cohérents  
